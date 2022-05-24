@@ -103,7 +103,7 @@ padding-left: 10%;
 
   img, .youtube{
     width: 40%;
-     }
+  }
 
   p{
     font-size:14px;
@@ -119,9 +119,9 @@ padding-left: 10%;
     font-size:12px;
     font-weight: bold;
   }
-    .cookBook {
-      width: 25px;
-      height: 25px;
-        }
+  .cookBook {
+    width: 25px;
+    height: 25px;
+    }
 
 }
