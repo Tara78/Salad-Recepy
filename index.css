@@ -34,27 +34,20 @@ justify-content: center;
 
 }
 img{
- width: 30%;
-  height: auto;
+height: 300px;
+  width: 300px;
+  object-fit: cover;
   border-radius:20px; 
-
-
+  
  }
 
 .cookBook{
 width: 30px;
 height: 30px;
 padding-top: 10px;
+
 }
 
-
-.material-symbols-outlined {
-  font-variation-settings:
-  'FILL' 0,
-  'wght' 400,
-  'GRAD' 0,
-  'opsz' 48
-}
 .btn{
   background-color: #4CAF50;
   border: none;
@@ -97,6 +90,7 @@ padding-left: 10%;
   width:400px;
   height: 220px;
   border-radius: 20px;
+  
 }
 
 @media only screen and (max-width: 600px) {
@@ -106,7 +100,7 @@ padding-left: 10%;
   }
 
   p{
-    font-size:14px;
+    font-size:10px;
   }
 
   h1{
